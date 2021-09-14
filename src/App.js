@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      React Pokedex
+      <h1>React Pokemon</h1>
     </div>
   );
 }
