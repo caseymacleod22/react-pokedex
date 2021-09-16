@@ -6,6 +6,7 @@ function App() {
       <h1>React Pokemon</h1>
       <h3>#1 Bulbasaur</h3>
       <h3>#2 Ivysaur</h3>
+      <h3>#3 Venusaur</h3>
     </div>
   );
 }
