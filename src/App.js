@@ -2,13 +2,10 @@ import './App.css';
 
 function App() {
   return (
-    <div>
-      <h1>React Pokemon</h1>
-      <h3>#1 Bulbasaur</h3>
-      <h3>#2 Ivysaur</h3>
-      <h3>#3 Venusaur</h3>
+    <div className='app-container'>
+      <h1>Pokémon Evolution</h1>
     </div>
-  );
+  )
 }
 
 export default App;
