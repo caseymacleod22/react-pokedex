@@ -14,6 +14,8 @@ code {
 
 .header {
   text-align: center;
+  color: blue;
+  text-decoration: underline;
 }
 
 .rock {
