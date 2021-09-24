@@ -22,8 +22,8 @@ function App() {
       })
     }
     createPokemonObject(data.results)
-    await console.log(allPokemon)
-    console.log(data)
+    // await console.log(allPokemon)
+    // console.log(data)
   }
 
   useEffect(() => {
