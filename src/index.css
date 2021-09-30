@@ -36,9 +36,9 @@ code {
 .poison {
   background-color: #e0a7f6;
 }
-.normal {
+/* .normal {
   background-color: #F4F4F4;
-}
+} */
 .fairy {
   background-color: rgba(255, 192, 203, 0.863);
 }
