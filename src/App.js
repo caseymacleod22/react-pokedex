@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import PokemonThumbnail from "./components/PokemonThumbnail";
+import Header from "./components/Header/Header";
 
 function App() {
 
@@ -33,6 +34,7 @@ function App() {
   return (
     <div className='app-container'>
       <h1 className='header'>Pokédex</h1>
+      <Header />
       <div className='pokemon-containter'>
         <div className='all-container'>
           {allPokemon.map((pokemon, index) => <PokemonThumbnail
