@@ -14,12 +14,12 @@ code {
     monospace;
 }
 
-/* .header {
+.header {
   text-align: center;
   color: blue;
   text-decoration: underline;
   font-family: 'Press Start 2P', cursive;
-} */
+}
 
 .rock {
   background-color: rgb(148, 81, 81);
