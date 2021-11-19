@@ -16,4 +16,4 @@ const PokemonThumbnail = ({id, name, image, type}) => {
     )
 }
 
-export default PokemonThumbnail
+// export default PokemonThumbnail
