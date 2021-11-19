@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import PokemonThumbnail from "./components/PokemonThumbnail";
-// import Header from "./components/Header/Header";
+import Header from "./components/Header/Header";
 
 function App() {
 
