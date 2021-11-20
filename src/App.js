@@ -27,9 +27,9 @@ function App() {
     // console.log(data)
   }
 
-  // useEffect(() => {
-  //   getAllPokemon()
-  // }, [])
+  useEffect(() => {
+    getAllPokemon()
+  }, [])
   
   return (
     <div className='app-container'>
