@@ -48,9 +48,9 @@ code {
 .grass {
   background-color:#E2F9E1;
 }
-/* .water {
+.water {
   background-color:#E0F1FD;
-} */
+}
 
 .app-contaner {
   display: flex; 
