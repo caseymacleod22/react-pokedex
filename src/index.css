@@ -27,12 +27,12 @@ code {
 .ghost {
   background-color: rgb(247, 247, 247);
 }
-.electric {
+/* .electric {
   background-color: rgb(255, 255, 161);
 }
 .bug {
   background-color: #F6D6A7;
-}
+} */
 .poison {
   background-color: #e0a7f6;
 }
