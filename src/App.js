@@ -45,7 +45,7 @@ function App() {
           key={index}
           />)}
         </div>
-          <button className='load-more' onClick={() => getAllPokemon()}>Load More</button>
+          {/* <button className='load-more' onClick={() => getAllPokemon()}>Load More</button> */}
       </div>
     </div>
   )
