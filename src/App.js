@@ -22,7 +22,7 @@ function App() {
 
       })
     }
-    // createPokemonObject(data.results)
+    createPokemonObject(data.results)
     // await console.log(allPokemon)
     // console.log(data)
   }
