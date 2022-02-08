@@ -1,6 +1,6 @@
 const Header = () => {
     return (
-    <div>HEADER TEST</div>
+    <div></div>
     )}
 
 export default Header
