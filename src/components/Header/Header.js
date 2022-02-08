@@ -1,6 +1,6 @@
 const Header = () => {
     return (
-    <div></div>
+    <div>Ironmon Bingo</div>
     )}
 
 export default Header
