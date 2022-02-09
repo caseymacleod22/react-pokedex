@@ -11,7 +11,7 @@ function App() {
     const res = await fetch(loadMore)
     const data = await res.json()
 
-    setLoadMore(data.next)
+    // setLoadMore(data.next)
 
     function createPokemonObject (result) {
       result.forEach(async (pokemon) => {
