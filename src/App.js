@@ -4,8 +4,8 @@ import Header from "./components/Header/Header";
 
 function App() {
 
-  const [allPokemon, setAllPokemon] = useState([])
-  const [loadMore, setLoadMore] = useState('https://pokeapi.co/api/v2/pokemon?limit=20')
+  // const [allPokemon, setAllPokemon] = useState([])
+  // const [loadMore, setLoadMore] = useState('https://pokeapi.co/api/v2/pokemon?limit=20')
 
   const getAllPokemon = async() => {
     const res = await fetch(loadMore)
