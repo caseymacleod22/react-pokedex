@@ -34,7 +34,7 @@ function App() {
   return (
     <div className='app-container'>
       <h1 className='header'>Pokédex</h1>
-      <Header />
+      {/* <Header /> */}
       <div className='pokemon-containter'>
         <div className='all-container'>
           {allPokemon.map((pokemon, index) => <PokemonThumbnail
